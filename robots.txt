@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gangsters-anmol.github.io/MEMORIES2026/sitemap.xml
